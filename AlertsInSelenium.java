@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class AlertsInSelenium {
 	WebDriver driver;
 
-
+//see the another new changes in github desktop
 	public static void main(String[] args) throws InterruptedException  {
 		// TODO Auto-generated method stub
 		AlertsInSelenium a1=new AlertsInSelenium();
